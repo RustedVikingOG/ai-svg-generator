@@ -1,0 +1,14 @@
+// app global css in SCSS form
+@import 'quasar.variables.scss';
+
+.spaced {
+    margin: 16px;
+}
+
+.rounded {
+    border-radius: 16px;
+}
+
+.dark-bg {
+    background-color: $dark;
+}
